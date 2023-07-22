@@ -30,55 +30,15 @@ This repository includes interview questions for the following DevOps tools and 
 11. **Security and Compliance in DevOps**
 
 These questions are aimed at helping you prepare for DevOps interviews and cover a wide range of topics to enhance your knowledge and skills in the field. The repository is open for contributions, so you can also add questions for any other relevant DevOps tools and platforms that are not already covered. Happy learning and interviewing! 🚀
+</br>
+</br>
+</br>
 
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GitHub" height="75" width="150"></img>
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png" alt="Gitlab" height="75" width="150"></img>
-</div>
-<div style="display: inline-block; margin-right: 20px;">
-<image src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_167854.png" alt="Jenkins" height="75" width="150"></img>
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://cdn.icon-icons.com/icons2/2699/PNG/512/circleci_logo_icon_168423.png" alt="CircleCI" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" alt="Ansible" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://datanextsolutions.com/wp-content/uploads/2017/12/chef-logo.png" alt="Chef" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="Kubernetes" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png" alt="Terraform" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://i0.wp.com/foxutech.com/wp-content/uploads/2017/09/AWS-CloudFormation-1.png?fit=640%2C366&ssl=1" alt="CloudFormation" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png" alt="Microsoft Azure" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png" alt="GCP" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://res.cloudinary.com/dfg89e6oo/image/upload/c_fit,f_auto,h_450,w_750/v1626342444/y6cbyl4iky21q4lszbaq.svg" alt="Prometheus" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://blog.knoldus.com/wp-content/uploads/2020/06/feature-image-prometheus.png" alt="Grafana" height="75" width="150">
-</div>
-<div style="display: inline-block; margin-right: 50px;">
-<image src="https://www.seekpng.com/png/detail/221-2211816_elk-stack-logo.png" alt="ELK Stack" height="75" width="150">
-</div>
+<image src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GitHub" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png" alt="Gitlab" height="75" width="150"> <image src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_167854.png" alt="Jenkins" height="75" width="150">  <image src="https://cdn.icon-icons.com/icons2/2699/PNG/512/circleci_logo_icon_168423.png" alt="CircleCI" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ansible_Logo.png" alt="Ansible" height="75" width="150"> <image src="https://datanextsolutions.com/wp-content/uploads/2017/12/chef-logo.png" alt="Chef" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png" alt="Docker" height="75" width="150"> <image src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="Kubernetes" height="75" width="150"> <image src="https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png" alt="Terraform" height="75" width="150"> <image src="https://i0.wp.com/foxutech.com/wp-content/uploads/2017/09/AWS-CloudFormation-1.png?fit=640%2C366&ssl=1" alt="CloudFormation" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="AWS" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png" alt="Microsoft Azure" height="75" width="150"> <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Cloud_logo.svg/2560px-Google_Cloud_logo.svg.png" alt="GCP" height="75" width="150"> <image src="https://res.cloudinary.com/dfg89e6oo/image/upload/c_fit,f_auto,h_450,w_750/v1626342444/y6cbyl4iky21q4lszbaq.svg" alt="Prometheus" height="75" width="150"> <image src="https://blog.knoldus.com/wp-content/uploads/2020/06/feature-image-prometheus.png" alt="Grafana" height="75" width="150"> <image src="https://www.seekpng.com/png/detail/221-2211816_elk-stack-logo.png" alt="ELK Stack" height="75" width="150">
+</br>
+</br>
+</br>
+
 
 ## Contributing
 
