@@ -51,13 +51,11 @@ We encourage you to contribute to this repository and help expand our collection
 5. Raise a pull request to this main repository.
 6. Our community moderators will review your contribution, and once approved, it will be merged.
 
-![Contribute](https://i.imgur.com/1PCelS1.png)
 
 ## Credits
 
 This repository is maintained by dedicated DevOps enthusiasts and contributors.
 
-![Contributors](https://i.imgur.com/VkypHMb.png)
 
 ## Join Our Community
 
