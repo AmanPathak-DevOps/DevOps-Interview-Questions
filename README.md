@@ -31,14 +31,14 @@ This repository includes interview questions for the following DevOps tools and 
 
 These questions are aimed at helping you prepare for DevOps interviews and cover a wide range of topics to enhance your knowledge and skills in the field. The repository is open for contributions, so you can also add questions for any other relevant DevOps tools and platforms that are not already covered. Happy learning and interviewing! 🚀
 
-<div style="display: inline-block; margin-right: 20px;">
-<image src="https://assets.stickpng.com/images/62a73678223343fbc2207cef.png" alt="Jenkins" height="75" width="150"></img>
-</div>
 <div style="display: inline-block; margin-right: 50px;">
 <image src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="GitHub" height="75" width="150"></img>
 </div>
 <div style="display: inline-block; margin-right: 50px;">
 <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png" alt="Gitlab" height="75" width="150"></img>
+</div>
+<div style="display: inline-block; margin-right: 20px;">
+<image src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_167854.png" alt="Jenkins" height="75" width="150"></img>
 </div>
 <div style="display: inline-block; margin-right: 50px;">
 <image src="https://cdn.icon-icons.com/icons2/2699/PNG/512/circleci_logo_icon_168423.png" alt="CircleCI" height="75" width="150">
