@@ -24,7 +24,7 @@
 18. What is the need of docker volumes?
 19. How to deploy prod app using docker?
 
-
+---
 
 
 **Docker-Compose** (~4 YOE - Jan 2026)
@@ -32,7 +32,7 @@
 2. How you use docker compose to scale the services?
 
 
-
+---
 **Kubernetes** (~4 YOE - Jan 2026)
 
 
