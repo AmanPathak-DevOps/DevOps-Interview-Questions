@@ -13,4 +13,6 @@
 3. How to get the disk info in linux
 4. Diff between top & htop
 5. grep vs awk
+6. Difference between du & df
+7. How to check the IP in linux?
    

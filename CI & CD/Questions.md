@@ -17,4 +17,11 @@
 10. Current jenkins version you're using?
 11. How do you patch and do upgrade jenkins server without downtime?
 12. How do you upgrade jenkins version without downtime?
+13. Post build completion how you’re making sure the code & images have no vulnerabilities?
+14. Write a simple pipeline for entire CICD?
+15. How you create users & assign roles & policies for the particular users & pipelines?
+16. How a jenkins pipeline should know which repo/branch should I check for changes and where the infra needs to be created in your tf pipeline?
+17. How you automate the infra provisioning whenever there are any minor changes the infra provisioning should be automated?
+18. How you design scalable cicd for multiple pipelines?
+19. If the cicd pipeline is slow, how you troubleshoot?
 
